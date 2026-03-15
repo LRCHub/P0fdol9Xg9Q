@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "囚囚がつかない / 音街ウナ・鳴花ヒメ",
+  "base_artist": "にほしか",
+  "createdAt": "2026-03-15T15:15:05.406030Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "囚囚がつかない",
+      "artist": "にほしか",
+      "has_synced": false,
+      "path": "select/pl_01_囚囚がつかない_にほしか.txt"
+    }
+  ]
+}
